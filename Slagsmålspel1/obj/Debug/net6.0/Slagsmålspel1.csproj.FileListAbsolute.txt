@@ -1,0 +1,15 @@
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.csproj.AssemblyReference.cache
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.AssemblyInfoInputs.cache
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.AssemblyInfo.cs
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.csproj.CoreCompileInputs.cache
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\bin\Debug\net6.0\Slagsmålspel1.exe
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\bin\Debug\net6.0\Slagsmålspel1.deps.json
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\bin\Debug\net6.0\Slagsmålspel1.runtimeconfig.json
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\bin\Debug\net6.0\Slagsmålspel1.dll
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\bin\Debug\net6.0\Slagsmålspel1.pdb
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.dll
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\refint\Slagsmålspel1.dll
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.pdb
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\Slagsmålspel1.genruntimeconfig.cache
+C:\Users\glimrot.hilda\PRR\Slagsmålspel1\Slagsmålspel1\obj\Debug\net6.0\ref\Slagsmålspel1.dll
