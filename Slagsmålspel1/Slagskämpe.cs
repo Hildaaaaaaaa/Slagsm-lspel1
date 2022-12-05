@@ -9,4 +9,6 @@ public class Slagskämpe
 
     public Vapen vapen = new Vapen();
 
+    public int pengar = 0;
+
 }
