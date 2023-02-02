@@ -9,3 +9,4 @@ public class Healing
     public int hpplus = 20;
 
 }
+
